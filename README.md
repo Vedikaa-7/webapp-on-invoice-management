@@ -1,6 +1,8 @@
 # webapp-on-invoice-management
 
-An AI-Enabled Invoice Management Application to find whether bill
+Project Objective : 
+
+to build an AI-Enabled Invoice Management Application to find whether bill
 payment will be delayed or not.
 
 The prediction is done using ML techniques and integrated using flask integration. 
